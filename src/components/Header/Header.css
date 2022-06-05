@@ -1,0 +1,15 @@
+.header{
+    background-color: aqua;
+    padding: 30px 30px 50px;
+}
+
+.header nav{
+    float: right;
+    text-align: center;
+    display: block;
+}
+
+.header nav a{
+    text-decoration: none;
+    margin-right: 20px;
+}
